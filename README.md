@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Quotes Motivation
 
 This is a React application that displays random quotes from famous people. Each time a new quote is displayed, the color scheme of the application changes. The quotes can also be shared on Twitter.
 
